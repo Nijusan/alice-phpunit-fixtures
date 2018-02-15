@@ -1,0 +1,11 @@
+App\Entity\User:
+
+    user_0:
+        slug: 'dennis'
+        firstname: 'Dennis'
+        status: '<status()>'
+
+    user_1:
+        slug: 'markus'
+        firstname: 'Markus'
+        status: '<status()>'
