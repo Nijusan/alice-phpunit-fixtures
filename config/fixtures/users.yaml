@@ -1,6 +1,7 @@
 App\Entity\User:
 
     user_0:
+        id: 5
         slug: 'dennis'
         firstname: '<firstname()>'
         status: '<status()>'
